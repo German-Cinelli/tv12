@@ -1,21 +1,21 @@
 ## 1. Login as root...
 ```diff
-> su ceip
+$ su ceip
 ```
 
 ```diff
-> sudo su
+$ sudo su
 ```
 
 
 ## 2. Clone repository in /home/usuario/Escritorio/script
 ```diff
-> git clone https://github.com/German-Cinelli/tv12 /home/usuario/script
+$ git clone https://github.com/German-Cinelli/tv12 /home/usuario/script
 ```
 
 
 ## 3. Run script
 ```diff
-> cd /home/usuario/Escritorio/script
-> . script.sh
+$ cd /home/usuario/Escritorio/script
+$ . script.sh
 ```
