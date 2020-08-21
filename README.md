@@ -10,7 +10,7 @@
 
 ## 2. Clone repository in /home/usuario/Escritorio/script
 ```diff
-> git clone https://github.com/German-Cinelli/tv12 /home/usuario/script
+> git clone https://github.com/German-Cinelli/tv12 /home/usuario/Escritorio/script
 ```
 
 
